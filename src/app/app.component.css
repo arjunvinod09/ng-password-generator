@@ -1,0 +1,12 @@
+.outer-div{
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(9, 8, 13)
+}
+
+/* 
+strength box rgb(24, 23, 31)
+slider green rgb(186, 242, 195)
+slider yellow rgb(248, 206, 96)
+*/
